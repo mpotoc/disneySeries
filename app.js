@@ -28,7 +28,7 @@ const worksheet_name = program.worksheet;
     /*args: [
       '--proxy-server=socks5://198.211.99.227:46437'
     ],*/
-    //headless: false,
+    headless: false,
     //slowMo: 200,
     //devtools: true,
     defaultViewport: {
